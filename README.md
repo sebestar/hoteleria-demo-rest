@@ -15,7 +15,6 @@ Que se ha usado en este proyecto REST
 * Swagger 
   * Para presentar servicios REST desplegados.
 
-Sitio despliegue REST
-http://hoteleria-demo-sa-itdd.us-west-2.elasticbeanstalk.com/
+
 
 
